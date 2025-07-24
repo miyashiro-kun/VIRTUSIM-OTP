@@ -1,6 +1,6 @@
 customtkinter==5.2.2
 gTTS==2.5.4
-Pillow==11.3.0
+Pillow
 playsound==1.2.2
 plyer==2.1.0
 pystray==0.19.5
